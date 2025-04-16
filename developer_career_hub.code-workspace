@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "developer_career_hub",
+			"path": "../developer_career_hub"
+		},
+		{
+			"name": "web_crawling",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
