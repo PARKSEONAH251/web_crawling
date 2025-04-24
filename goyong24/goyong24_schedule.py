@@ -2,7 +2,7 @@
 from datetime import datetime
 import schedule
 import time
-from dev_jobs_goyong24_crawler import run_crawling
+from goyong24.dev_jobs_goyong24_crawler import run_crawling
 
 def job():
     if datetime.now().day == 15:
